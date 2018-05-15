@@ -1,0 +1,13 @@
+Welcome to the appointment maker.
+        From here, you may:
+        1) Save a new appointment
+        2) View appointments
+        3) Exit
+
+Welcome to the appointment saver.
+        From here, you may:
+        1) Save a new Daily appointment
+        2) Save a new Monthly appointment
+        3) Save a new Onetime appointment
+        4) Return to Main Menu
+        5) Exit program
